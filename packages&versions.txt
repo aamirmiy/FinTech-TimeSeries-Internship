@@ -1,0 +1,6 @@
+PACKAGES      VERSION
+tensorflow    2.3.0
+keras         2.4.0
+pandas        1.1.2
+numpy         1.18.5
+sklearn       0.22.2.post1
